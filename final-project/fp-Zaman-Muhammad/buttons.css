@@ -1,0 +1,7 @@
+/*The reason why the buttons do not take up the whole page is because if I put it as height:100% and width:50%, the game will not work when it is not in full screen, that is because I intentionally left some space between the buttons so that it is easy to tell the difference between the two, to ensure that the game works no matter the screen size I set the width to 45% and the height to 98%.*/
+img{
+  height: 98%;
+  width: 45%;
+}
+
+

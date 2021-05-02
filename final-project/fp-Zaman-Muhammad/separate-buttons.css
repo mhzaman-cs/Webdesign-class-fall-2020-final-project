@@ -1,0 +1,7 @@
+/*The reason that the botton take up the whole page is because they are meant to be big*/
+img{
+  height: 100%;
+  width: 100%;
+}
+
+
